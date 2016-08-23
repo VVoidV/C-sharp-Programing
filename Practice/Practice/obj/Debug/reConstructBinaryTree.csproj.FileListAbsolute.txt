@@ -1,6 +1,0 @@
-E:\Project\C-sharp-Programing\Practice\Practice\bin\Debug\Practice.exe.config
-E:\Project\C-sharp-Programing\Practice\Practice\obj\Debug\reConstructBinaryTree.csprojResolveAssemblyReference.cache
-E:\Project\C-sharp-Programing\Practice\Practice\bin\Debug\Practice.exe
-E:\Project\C-sharp-Programing\Practice\Practice\bin\Debug\Practice.pdb
-E:\Project\C-sharp-Programing\Practice\Practice\obj\Debug\Practice.exe
-E:\Project\C-sharp-Programing\Practice\Practice\obj\Debug\Practice.pdb

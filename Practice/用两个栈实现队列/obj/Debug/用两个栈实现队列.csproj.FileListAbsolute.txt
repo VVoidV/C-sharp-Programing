@@ -1,6 +1,0 @@
-E:\Project\C-sharp-Programing\Practice\用两个栈实现队列\bin\Debug\用两个栈实现队列.exe.config
-E:\Project\C-sharp-Programing\Practice\用两个栈实现队列\bin\Debug\用两个栈实现队列.exe
-E:\Project\C-sharp-Programing\Practice\用两个栈实现队列\bin\Debug\用两个栈实现队列.pdb
-E:\Project\C-sharp-Programing\Practice\用两个栈实现队列\obj\Debug\用两个栈实现队列.exe
-E:\Project\C-sharp-Programing\Practice\用两个栈实现队列\obj\Debug\用两个栈实现队列.pdb
-E:\Project\C-sharp-Programing\Practice\用两个栈实现队列\obj\Debug\用两个栈实现队列.csprojResolveAssemblyReference.cache
