@@ -71,9 +71,9 @@ namespace reConstructBinaryTree
         {
             if (t != null)
             {
-                Console.Write("{0}", t.val);
+               
                 inordertraverse(t.left);
-                
+                Console.Write("{0}", t.val);
                 inordertraverse(t.right);
                 
             }
