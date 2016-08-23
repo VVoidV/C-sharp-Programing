@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reConstructBinaryTree", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "用两个栈实现队列", "用两个栈实现队列\用两个栈实现队列.csproj", "{347A1C42-32D2-41E7-BDDE-0227E6834596}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printListfromTail", "printListfromTail\printListfromTail.csproj", "{19295CE6-0D1B-42C7-A1E9-7A3121722810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{347A1C42-32D2-41E7-BDDE-0227E6834596}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{347A1C42-32D2-41E7-BDDE-0227E6834596}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{347A1C42-32D2-41E7-BDDE-0227E6834596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19295CE6-0D1B-42C7-A1E9-7A3121722810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19295CE6-0D1B-42C7-A1E9-7A3121722810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19295CE6-0D1B-42C7-A1E9-7A3121722810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19295CE6-0D1B-42C7-A1E9-7A3121722810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
