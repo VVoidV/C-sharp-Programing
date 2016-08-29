@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "用两个栈实现队列", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printListfromTail", "printListfromTail\printListfromTail.csproj", "{19295CE6-0D1B-42C7-A1E9-7A3121722810}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rectCover", "rectCover\rectCover.csproj", "{C525272E-FFFF-4C0F-BB03-1FA05D14F544}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{19295CE6-0D1B-42C7-A1E9-7A3121722810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19295CE6-0D1B-42C7-A1E9-7A3121722810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19295CE6-0D1B-42C7-A1E9-7A3121722810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C525272E-FFFF-4C0F-BB03-1FA05D14F544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C525272E-FFFF-4C0F-BB03-1FA05D14F544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C525272E-FFFF-4C0F-BB03-1FA05D14F544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C525272E-FFFF-4C0F-BB03-1FA05D14F544}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

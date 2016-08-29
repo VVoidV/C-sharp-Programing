@@ -21,6 +21,17 @@ namespace printListfromTail
     }
     class Solution
     {
+        //public List<int> reverseList(ListNode listNode)
+        //{
+        //    Stack<int> stack = new Stack<int>();
+        //    for (ListNode i = listNode; i != null; i = i.next)
+        //    {
+        //        stack.Push(i.val);
+        //    }
+
+        //    return stack.ToList();
+        //}
+
         public List<int> reverseList(ListNode listNode)
         {
             Stack<int> stack = new Stack<int>();
@@ -28,10 +39,16 @@ namespace printListfromTail
             {
                 stack.Push(i.val);
             }
-            
-            return stack.ToList();
+            List<int> result = new List<int>();
+            while (stack.Count > 0)
+            {
+                result.Add(stack.Pop());
+            }
+            return result;
         }
-        
+
+
+
         public ListNode CreateList(int n)
         {
             ListNode head = new ListNode();
