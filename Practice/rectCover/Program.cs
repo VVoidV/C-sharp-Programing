@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Numerics;
-//此题教训，注意基本类型int、long的实际范围和程序中可能出现的最大值的比较！！
+//此题教训，注意基本类型int、long的实际范围和程序中可能出现的最大值的比较！！不过规模上去以后就算是BigInteger也不能支撑这么大的数字，还是递推的计算方法好。
 namespace rectCover
 {
     class Program

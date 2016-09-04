@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printListfromTail", "printL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rectCover", "rectCover\rectCover.csproj", "{C525272E-FFFF-4C0F-BB03-1FA05D14F544}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "二进制中1的个数", "二进制中1的个数\二进制中1的个数.csproj", "{2BA28BDF-45DC-4ABB-9536-27E422BE6EB3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C525272E-FFFF-4C0F-BB03-1FA05D14F544}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C525272E-FFFF-4C0F-BB03-1FA05D14F544}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C525272E-FFFF-4C0F-BB03-1FA05D14F544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA28BDF-45DC-4ABB-9536-27E422BE6EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA28BDF-45DC-4ABB-9536-27E422BE6EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA28BDF-45DC-4ABB-9536-27E422BE6EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA28BDF-45DC-4ABB-9536-27E422BE6EB3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
